@@ -1,0 +1,14 @@
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/bin/Debug/net8.0/GeradorDocumentos
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/bin/Debug/net8.0/GeradorDocumentos.deps.json
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/bin/Debug/net8.0/GeradorDocumentos.runtimeconfig.json
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/bin/Debug/net8.0/GeradorDocumentos.dll
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/bin/Debug/net8.0/GeradorDocumentos.pdb
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/GeradorDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/GeradorDocumentos.AssemblyInfoInputs.cache
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/GeradorDocumentos.AssemblyInfo.cs
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/GeradorDocumentos.csproj.CoreCompileInputs.cache
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/GeradorDocumentos.dll
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/refint/GeradorDocumentos.dll
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/GeradorDocumentos.pdb
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/GeradorDocumentos.genruntimeconfig.cache
+/home/macs/Documentos/tde-padroes-projeto/GeradorDocumentos/obj/Debug/net8.0/ref/GeradorDocumentos.dll
